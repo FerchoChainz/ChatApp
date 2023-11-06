@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="bienvenido_de_vuelta">¡Bienvenido de Vuelta!</string>
+    <string name="logeate_para_continuar">Logeate Para continuar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">¡Inica Sesion!</string>
+    <string name="crear_cuenta_nueva">Crear Cuenta Nueva</string>
+    <string name="sube_una_foto">sube una foto</string>
+    <string name="sombre">Sombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="confirm">Confirma tu contraseña</string>
+    <string name="registrate">¡Registrate!</string>
+    <string name="select_user">Selecciona el usuario</string>
+    <string name="message">Escribe un mensaje</string>
+</resources>
