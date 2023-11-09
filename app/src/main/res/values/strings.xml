@@ -13,4 +13,5 @@
     <string name="registrate">¡Registrate!</string>
     <string name="select_user">Selecciona el usuario</string>
     <string name="message">Escribe un mensaje</string>
+    <string name="online">Online</string>
 </resources>
